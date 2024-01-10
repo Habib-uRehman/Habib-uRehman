@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/49365063/194293589-9018b6a0-f94e-4348-b2cb-e6ed03431151.png" style="border-radius: 10% ; alt="" width="800"></p>
+
 <p align = "center"> <img src = "https://github-widgetbox.vercel.app/api/profile?username=Habib-uRehman&data=followers,repositories,stars,commits&theme=nautilus"></p>
 
   <p align="center"><img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" ></p>
@@ -72,7 +72,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Habib-uRehman&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Habib-uRehman&show_icons=true&theme=transparent&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Habib-uRehman&show_icons=true&theme=merko&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-Habib-uRehman.vercel.app/api/top-langs/?username=Habib-uRehman&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
