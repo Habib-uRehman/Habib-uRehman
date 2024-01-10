@@ -71,7 +71,7 @@
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Habib-uRehman&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Habib-uRehman&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
   
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Habib-uRehman&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
