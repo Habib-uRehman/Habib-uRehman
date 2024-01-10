@@ -24,7 +24,7 @@
 
  💬 Ask me about **Django, Python, Api's, AI, Data Analysis... or anything related to web**
 
- ⚡ Fun fact About me: **I will code for a cup of coffee 😊**
+ ⚡ Fun fact: **I will code for a cup of coffee 😊**
  
  </div>
 
