@@ -81,5 +81,29 @@
   <br>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-uRehman&hide=HTML&langs_count=8&layout=compact&theme=nord&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+## My Flutter Work 💻 💼
+
+<div align="center">
+    <a href="https://github.com/shahzoor123/Hall_Management_Saas"> <img width="49%"
+ src="https://github.com/Habib-uRehman/portfolio-images/blob/main/hall/dash.jpg"/></a>
+     <a href="https://github.com/shahzoor123/Hall_Management_Saas"> <img width="49%"    src="https://github.com/Habib-uRehman/portfolio-images/blob/main/hall/events.jpg"/></a>
+  <a href="https://github.com/Habib-uRehman"> <img width="49%"   src="https://github.com/Habib-uRehman/portfolio-images/blob/main/ecom/ecom%202.jpg"/> </a>
+   <a href="https://github.com/Habib-uRehman"> <img width="49%"  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/ecom/ecom.jpg"/> </a>
+   <a href="https://github.com/engbakhtmuhammad/Streaming_UI" ><img width="49%" 
+ src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/animeAppShot.png"/></a>
+    <a href="https://github.com/engbakhtmuhammad/World_Touring_UI" > <img width="49%"  src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/TouringAppShot.png"/></a>
+   <a href="https://github.com/engbakhtmuhammad/Shoping_UI"> <img width="49%" 
+ src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/upperAppShot.png"/></a>
+     <a href="https://github.com/engbakhtmuhammad/"> <img width="49%" 
+ src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/5400455.jpg.png"/></a>
+    <a href="https://github.com/engbakhtmuhammad/Chat_UI"> <img   
+ src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/chatAppShot.png"/></a>
+    <a href="https://github.com/engbakhtmuhammad/SmartHomePageUI"> <img width="49%"  src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/SmartHomePageUI.png"/></a>
+    <a href="https://github.com/engbakhtmuhammad/squeez_game"> <img width="49%"  src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/SqueezeCaneShot.png"/></a>
+     <a href="https://github.com/engbakhtmuhammad/GoogleAuthChatApp"> <img width="38%"  src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/FlutterChatDemo.gif"/></a>
+    <a href="https://github.com/engbakhtmuhammad/GoogleAuthChatApp"> <img width="60%"   src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/tutorshot.png"/></a>
+    
+</div>
  
 
