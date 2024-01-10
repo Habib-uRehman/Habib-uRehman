@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://technigator.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/habibrehman123/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/habibrehman123/"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
 
 </p>
 <br />
@@ -55,14 +55,16 @@
 
 
   <div align="center">
+    <h3 align="center" ><b>Tools</b> </h3>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,figma,ai,idea,anaconda" /><br>
     <h3 align="center" ><b>Frontend</b> </h3>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,figma" /><br>
-    <h3 align="center"><b>Backend</b> </h3>
-    <img src="https://skillicons.dev/icons?i=jquery,python,javascript,django,flask,electron" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind" /><br>
+    <h3 align="center"><b>Backend & Frameworks</b> </h3>
+    <img src="https://skillicons.dev/icons?i=jquery,python,php,javascript,django,flask,electron,laravel" /><br>
     <h3 align="center"><b>Databases</b> </h3>
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,mysql" /><br>
     <h3 align="center"><b>Depolyments</b> </h3>
-    <img src="https://skillicons.dev/icons?i=gcp,aws,postman,linux,docker,bash,vercel,nginx" /><br>
+    <img src="https://skillicons.dev/icons?i=gcp,aws,linux,docker,bash,vercel,nginx" /><br>
 </div>
  
 
