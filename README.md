@@ -93,14 +93,10 @@
    <a href="https://github.com/Habib-uRehman" ><img width="49%" 
  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/eticket/Home.png"/></a>
     <a href="https://github.com/Habib-uRehman" > <img width="49%"  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/eticket/busses.png"/></a>
-   <a href="https://github.com/Habib-uRehman"> <img width="49%" 
- src=""/></a>
-     <a href="https://github.com/Habib-uRehman"> <img width="49%" 
- src=https://github.com/Habib-uRehman/portfolio-images/blob/main/cobra/cobra%201.jpg"/></a>
-    <a href="https://github.com/Habib-uRehman"> <img   
- src="https://github.com/Habib-uRehman/portfolio-images/blob/main/cobra/cobra%205.jpg"/></a>
-    <a href="https://github.com/Habib-uRehman"> <img width="49%"  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/cobra/cobra%202.jpg"/></a>
-    <a href="https://github.com/Habib-uRehman"> <img width="49%"  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/cobra/cobra%203.jpg"/></a>
+     <a href="https://github.com/Habib-uRehman"> <img width="49%" src=https://github.com/Habib-uRehman/portfolio-images/blob/main/cobra/cobra%201.jpg"/></a>
+    <a href="https://github.com/Habib-uRehman"> <img src="https://github.com/Habib-uRehman/portfolio-images/blob/main/cobra/cobra%205.jpg"/></a>
+    <a href="https://github.com/Habib-uRehman"> <img width="49%"  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/electron/Alkhidmat%20image%202.jpg"/></a>
+    <a href="https://github.com/Habib-uRehman"> <img width="49%"  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/electron/Alkhidmat%20image%202.jpg"/></a>
      
     
 </div>
