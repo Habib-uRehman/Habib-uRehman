@@ -28,24 +28,6 @@
  
  </div>
 
-<h2 align="center">My Portfolio</h2>
-<br />
-
-<p align="center">
-
-  <a href="https://github.com/Habib-uRehman/Data-Structure-and-Algorithms.git"> 
-<p align="center">  <img align="" src="https://github.com/shahzoor123/shahzoor123/blob/main/1.png?raw=true" alt="" width="1200"></p>
-</a>
-
-
-
- 
-</p>
-
-
-
-
-
 
   <p>
   <h3 align="center"><b>Languages + Framworks + Tools</b> </h3>
@@ -82,7 +64,7 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-uRehman&hide=HTML&langs_count=8&layout=compact&theme=nord&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-## My Flutter Work 💻 💼
+## My Web Development Work 💻 💼
 
 <div align="center">
     <a href="https://github.com/shahzoor123/Hall_Management_Saas"> <img width="49%"
@@ -92,7 +74,7 @@
    <a href="https://github.com/Habib-uRehman"> <img width="49%"  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/ecom/ecom.jpg"/> </a>
    <a href="https://github.com/Habib-uRehman" ><img width="49%" 
  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/eticket/Home.png"/></a>
-    <a href="https://github.com/Habib-uRehman" > <img width="49%"  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/eticket/busses.png"/></a>
+    <a href="https://github.com/Habib-uRehman"> <img width="49%"  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/eticket/busses.png"/></a>
     <a href="https://github.com/Habib-uRehman"> <img src="https://github.com/Habib-uRehman/portfolio-images/blob/main/cobra/cobra%205.jpg"/></a>
     <a href="https://github.com/Habib-uRehman"> <img width="49%"  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/electron/Alkhidmat%20image%202.jpg"/></a>
     <a href="https://github.com/Habib-uRehman"> <img width="49%"  src="https://github.com/Habib-uRehman/portfolio-images/blob/main/electron/Alkhidmat%20image%203.jpg"/></a>
