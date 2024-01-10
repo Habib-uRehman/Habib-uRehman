@@ -1,7 +1,7 @@
 
 <p align = "center"> <img src = "https://github-widgetbox.vercel.app/api/profile?username=Habib-uRehman&data=followers,repositories,stars,commits&theme=nautilus"></p>
 
-  <p align="center"><img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" ></p>
+  <p align="center"><img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" ></p>
 
 
 
@@ -9,7 +9,7 @@
 <h1 align="center" ><b>Hi, My Name is Habib Ur Rehman </h1>
 </p>
 <p align="center">
-<a href="https://technigator.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
+<a href="https://xenifylabs.com"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/habibrehman123/"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
 
