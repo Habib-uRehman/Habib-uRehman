@@ -9,7 +9,7 @@
 <h1 align="center" ><b>Hi, My Name is Habib Ur Rehman </h1>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/habibrehman123/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/habibrehman123/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/habibrehman123/"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
 
