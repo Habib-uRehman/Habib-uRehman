@@ -18,9 +18,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on AI chatbot powered by ChatGPT**
+ 🔭 I’m currently working on AI chatbot powered by LLM**
  
- 🌱 I’m currently learning **LLms, Langchain, Reactjs, Visualization Techniques**
+ 🌱 I’m currently learning **LLMs, Langchain, Reactjs, Visualization Techniques**
 
  💬 Ask me about **Django, Python, Api's, AI, Data Analysis... or anything related to web**
 
