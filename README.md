@@ -72,12 +72,12 @@ Full Stack Developer with **4+ years** of experience building scalable systems f
 ## Career Timeline
 
 ```
-2025–Present  Lead Web Developer         .......... Govt. of Balochistan (BSDI)
+2025–Present  Lead Web Developer .......... Govt. of Balochistan (BSDI)
 2025–Present  Pashto AI Data Contributor .. Appen (Project Jigglypuff)
-2024–2025     AI Trainer (LLM / RLHF)    .... Turing.com
-2022–2024     Full Stack Developer       ........ Ultrasoft Systems
-2021–2022     Python Backend Developer   .... PSEB (Govt. of Pakistan)
-2020–Present  IT Manager                 ........ Sultant Business Center
+2024–2025     AI Trainer (LLM / RLHF) ..... Turing.com
+2022–2024     Full Stack Developer ........ Ultrasoft Systems
+2021–2022     Python Backend Developer .... PSEB (Govt. of Pakistan)
+2020–Present  IT Manager & Network Administrator ... Sultant Business Center
 ```
 
 ---
