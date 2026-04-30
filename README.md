@@ -86,10 +86,10 @@ Full Stack Developer with **4+ years** of experience building scalable systems f
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🤖 **Multi-Database AI Chatbot** | NLP chatbot querying 4–5 independent DBs with streaming responses — deployed at ISDB Institute & ICIEC | Django Channels, WebSocket, LLM |
-| 📦 **Distribution Management SaaS** | Real-time inventory & order management used by multiple retail businesses | Python, React, PostgreSQL, AWS |
-| ✈️ **Travel Agency Platform** | End-to-end travel management for 2,000+ clients with integrated payments & automated invoicing | Django, React, Payment APIs |
-| 🏗️ **Enterprise ERP (Philippines)** | Custom ERP for resource management, project tracking, invoicing & reporting | Django, React, PostgreSQL |
+| **Multi-Database AI Chatbot** | NLP chatbot querying 4–5 independent DBs with streaming responses — deployed at ISDB Institute & ICIEC | Django Channels, WebSocket, LLM |
+| **Distribution Management SaaS** | Real-time inventory & order management used by multiple retail businesses | Python, React, PostgreSQL, AWS |
+| **Travel Agency Platform** | End-to-end travel management for 2,000+ clients with integrated payments & automated invoicing | Django, React, Payment APIs |
+| **Enterprise ERP (Philippines)** | Custom ERP for resource management, project tracking, invoicing & reporting | Django, React, PostgreSQL |
 
 ---
 
