@@ -77,7 +77,7 @@ Full Stack Developer with **4+ years** of experience building scalable systems f
 2024–2025     AI Trainer (LLM / RLHF) .... Turing.com
 2022–2024     Full Stack Developer ........ Ultrasoft Systems
 2021–2022     Python Backend Developer .... PSEB (Govt. of Pakistan)
-2020–Present  IT Manager & Founder ........ XenifyLabs
+2020–Present  IT Manager  ........ Sultant Business Center
 ```
 
 ---
